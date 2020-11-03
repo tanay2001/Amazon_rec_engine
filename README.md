@@ -16,4 +16,4 @@ various models were implemented and results were analysed,the models being, <br>
 3)Model based recommendations(Matrix factorizations)<br>
 4)Hybrid models
 
-Please have a look at the project report for better understanding
+Please have a look at the project report for better understanding [Report](https://github.com/tanay2001/Amazon_rec_engine/blob/master/Recommendations%20Report.pdf)
